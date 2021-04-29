@@ -26,5 +26,5 @@
 **Technical Certificates**
 
 | Certificate | Language | Link | From |
-| -------------- | :--------- | ----------: | ----------: |
+| -------------- | :--------- | ----------: | :---------- |
 | Backend Development  | NodeJS | [Link](https://github.com/kedarSedai/Protfolio/blob/main/certificate.pdf) | Learn Code Online|
