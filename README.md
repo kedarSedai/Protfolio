@@ -8,14 +8,16 @@
 
 | Projects| Language | Link |
 | :---         |     :---:      |          ---: |
-| Login Register using Passport JS  | NodeJS, Express, MongoDB     | [Link](https://github.com/kedarSedai/Login-Register)  |
-| CRUD Application | Java, Servlet, MYSQL | git diff      |
-| CRUD Application | Java, Spring Boot, Hibernate, MYSQL | git diff   |
-| Restaurant Landing Page | HTML,CSS,JS | git diff  |
-| Take Home Projects | HTML,CSS,JS | git diff  |
-| Weather API | Spring Boot, Java | git diff  |
-| Weather API | Node JS | git diff  |
-| English To Nepali | Java, Android | git diff  |
-| Send SMS | Node JS, Express, Nexmo | git diff  |
-| Online Topi | Node JS, Express, Stripe API | git diff  |
-| Fetching API |JS| git diff  |
+| Login Register using Passport JS  | NodeJS, Express, MongoDB     | [Link](https://github.com/kedarSedai/Login-Register) |
+| CRUD Application | Java, Servlet, MYSQL | [Link](https://github.com/kedarSedai/JavaServlet) |
+| CRUD Application | Java, Spring Boot, Hibernate, MYSQL |[Link](https://github.com/kedarSedai/Student-Record) |
+| REST CRUD API | Java, Spring Boot, Hibernate, MYSQL |[Link](https://github.com/kedarSedai/Spring-Boot-API) |
+| REST CRUD API | Node JS, MongoDB, ExpressJS | [Link](https://github.com/kedarSedai/RESTAPI)|
+| Restaurant Landing Page | HTML,CSS,JS |[Link](https://github.com/kedarSedai/Landing-Page) |
+| Take Home Projects | HTML,CSS,JS | [Link](https://github.com/kedarSedai/take-home-project)  |
+| Weather API | Spring Boot, Java |[Link](https://github.com/kedarSedai/WeatherAPI)|
+| Weather API | Node JS |[Link](https://github.com/kedarSedai/WeatherApp-)  |
+| English To Nepali | Java, Android |[Link](https://github.com/kedarSedai/EnglishtoNepali)|
+| Send SMS | Node JS, Express, Nexmo |[Link](https://github.com/kedarSedai/Send-Sms)|
+| Online Topi | Node JS, Express, Stripe API |[Link](https://github.com/kedarSedai/OnlineTopi)
+| Fetching API |JS|[Link](https://github.com/kedarSedai/Fetching-Api-)|
