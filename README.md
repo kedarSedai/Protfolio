@@ -15,3 +15,7 @@
 | Take Home Projects | HTML,CSS,JS | git diff  |
 | Weather API | Spring Boot, Java | git diff  |
 | Weather API | Node JS | git diff  |
+| English To Nepali | Java, Android | git diff  |
+| Send SMS | Node JS, Express, Nexmo | git diff  |
+| Online Topi | Node JS, Express, Stripe API | git diff  |
+| Fetching API |JS| git diff  |
