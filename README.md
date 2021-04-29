@@ -8,7 +8,7 @@
 
 | Projects| Language | Link |
 | :---         |     :---:      |          ---: |
-| Login Register using Passport JS  | NodeJS, Express, MongoDB     | git status    |
+| Login Register using Passport JS  | NodeJS, Express, MongoDB     | [Link](https://github.com/kedarSedai/Login-Register)  |
 | CRUD Application | Java, Servlet, MYSQL | git diff      |
 | CRUD Application | Java, Spring Boot, Hibernate, MYSQL | git diff   |
 | Restaurant Landing Page | HTML,CSS,JS | git diff  |
