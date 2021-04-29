@@ -8,7 +8,7 @@
 
 | Projects| Language | Link |
 | :---         |     :---:      |          ---: |
-| Login Register using Passport JS  | NodeJS, Express, MongoDB     | [Link](https://github.com/kedarSedai/Login-Register) |
+| Login Register using Passport JS  | NodeJS, Express, MongoDB | [Link](https://github.com/kedarSedai/Login-Register) |
 | CRUD Application | Java, Servlet, MYSQL | [Link](https://github.com/kedarSedai/JavaServlet) |
 | CRUD Application | Java, Spring Boot, Hibernate, MYSQL |[Link](https://github.com/kedarSedai/Student-Record) |
 | REST CRUD API | Java, Spring Boot, Hibernate, MYSQL |[Link](https://github.com/kedarSedai/Spring-Boot-API) |
@@ -21,3 +21,9 @@
 | Send SMS | Node JS, Express, Nexmo |[Link](https://github.com/kedarSedai/Send-Sms)|
 | Online Topi | Node JS, Express, Stripe API |[Link](https://github.com/kedarSedai/OnlineTopi)
 | Fetching API |JS|[Link](https://github.com/kedarSedai/Fetching-Api-)|
+
+
+**Technical Certificates**
+| Certificate| Language | Link |
+| :---         |     :---:      |          ---: |
+| Backend Development  | NodeJS | [Link](https://github.com/kedarSedai/Protfolio/blob/main/certificate.pdf) |
