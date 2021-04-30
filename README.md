@@ -2,6 +2,7 @@
 | Company| Duration| Link |
 | :---         |     :---:      |          ---: |
 | Communicate Media Pvt.LTD | 3 month| [Link](https://github.com/kedarSedai/Protfolio/blob/main/intern.jpg) |
+| CAS TRADING Pvt Ltd | Current |  |
 
 
 **HackerRank**
