@@ -29,3 +29,4 @@
 | -------------- | :--------- | ----------: | :---------- |
 | Backend Development  | NodeJS | [Link](https://github.com/kedarSedai/Protfolio/blob/main/certificate.pdf) | Learn Code Online|
 | JavaScipt Basic  | JS | [Link](https://www.hackerrank.com/certificates/11bcdacc93c4) | HackerRank|
+| Android Trainer | Java, Android | [Link](https://github.com/kedarSedai/Protfolio/blob/main/certificate-Android.jpg) | Deerwalk|
