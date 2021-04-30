@@ -14,9 +14,9 @@
 
 | Projects| Language | Link |
 | :---         |     :---:      |          ---: |
-| Login Register using Passport JS  | NodeJS, Express, MongoDB | [Link](https://github.com/kedarSedai/Login-Register) |
-| CRUD Application | Java, Servlet, MYSQL | [Link](https://github.com/kedarSedai/JavaServlet) |
-| CRUD Application | Java, Spring Boot, Hibernate, MYSQL |[Link](https://github.com/kedarSedai/Student-Record) |
+| Login Register using Passport JS  | NodeJS, Express, MongoDB, ejs | [Link](https://github.com/kedarSedai/Login-Register) |
+| CRUD Application | Java, Servlet, MYSQL, HTML, CSS | [Link](https://github.com/kedarSedai/JavaServlet) |
+| CRUD Application | Java, Spring Boot, Hibernate, MYSQL, thymeleaf |[Link](https://github.com/kedarSedai/Student-Record) |
 | REST CRUD API | Java, Spring Boot, Hibernate, MYSQL |[Link](https://github.com/kedarSedai/Spring-Boot-API) |
 | REST CRUD API | Node JS, MongoDB, ExpressJS | [Link](https://github.com/kedarSedai/RESTAPI)|
 | Restaurant Landing Page | HTML,CSS,JS |[Link](https://github.com/kedarSedai/Landing-Page) |
