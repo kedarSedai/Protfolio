@@ -1,3 +1,9 @@
+**Innternship**
+| Company| Duration| Link |
+| :---         |     :---:      |          ---: |
+| Communicate Media Pvt.LTD | 3 month| [Link](https://github.com/kedarSedai/Protfolio/blob/main/intern.jpg) |
+
+
 **HackerRank**
 | HackerRank  | Medal |
 | ------------- | ------------- |
@@ -36,8 +42,14 @@
 
 |Certificates| Project | Link |
 | :---         |     :---:      |          ---: |
+| KU Hackathon  | TourBid (Targeted for Tourist) |[Link](https://github.com/kedarSedai/Protfolio/blob/main/KU-Hack.jpg) |
+| Asian College Hackathon  | DevMatch |[Link](https://github.com/kedarSedai/Protfolio/blob/main/Asian-Hack.jpg) |
 
-| KU Hackathon  | TourBid (Targeted for Tourist) | [Link](https://github.com/kedarSedai/Login-Register) |
-| Asian College Hackathon  | DevMatch | [Link](https://github.com/kedarSedai/Login-Register) |
+**Sports**
+
+| Sports | Certificate |
+| ------------- | ------------- |
+| Chess |[Link](https://github.com/kedarSedai/Protfolio/blob/main/Chess.jpg) |
+
 
 
