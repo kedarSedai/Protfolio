@@ -39,6 +39,7 @@
 | Java Basic  | [Link](https://www.hackerrank.com/certificates/37ba0270cd9b) | HackerRank|
 | Node Js  | [Link](https://app.testdome.com/cert/ecaf1606e01841c29f0e19e1b1da0b3b) |TESTDOME|
 | JavaScript | [Link](https://app.testdome.com/cert/318777f66a1a4300abedd5dd40d6832f) |TESTDOME|
+| HTML/ CSS | [Link](https://app.testdome.com/cert/24c5544b7c594e6bb15b8e4fa8d6db0f) |TESTDOME|
 | Android Trainer |  [Link](https://github.com/kedarSedai/Protfolio/blob/main/certificate-Android.jpg) | Deerwalk|
 
 
