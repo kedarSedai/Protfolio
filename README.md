@@ -32,13 +32,14 @@
 
 **Technical Certificates**
 
-| Certificate | Language | Link | From |
-| -------------- | :--------- | ----------: | :---------- |
-| Backend Development  | NodeJS | [Link](https://github.com/kedarSedai/Protfolio/blob/main/certificate.pdf) | Learn Code Online|
-| JavaScipt Basic  | JS | [Link](https://www.hackerrank.com/certificates/11bcdacc93c4) | HackerRank|
-| Java Basic  | Java | [Link](https://www.hackerrank.com/certificates/37ba0270cd9b) | HackerRank|
-| Node Js  | Node js| [Link](https://app.testdome.com/cert/ecaf1606e01841c29f0e19e1b1da0b3b) |TESTDOME|
-| Android Trainer | Java, Android | [Link](https://github.com/kedarSedai/Protfolio/blob/main/certificate-Android.jpg) | Deerwalk|
+| Certificate | Link | From |
+| -------------- | ----------: | :---------- |
+| Backend Development  | [Link](https://github.com/kedarSedai/Protfolio/blob/main/certificate.pdf) | Learn Code Online|
+| JavaScipt Basic   | [Link](https://www.hackerrank.com/certificates/11bcdacc93c4) | HackerRank|
+| Java Basic  | [Link](https://www.hackerrank.com/certificates/37ba0270cd9b) | HackerRank|
+| Node Js  | [Link](https://app.testdome.com/cert/ecaf1606e01841c29f0e19e1b1da0b3b) |TESTDOME|
+| JavaScript | [Link](https://app.testdome.com/cert/318777f66a1a4300abedd5dd40d6832f) |TESTDOME|
+| Android Trainer |  [Link](https://github.com/kedarSedai/Protfolio/blob/main/certificate-Android.jpg) | Deerwalk|
 
 
 **Hackathon Certificates**
