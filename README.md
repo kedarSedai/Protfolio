@@ -9,6 +9,7 @@
 | HackerRank  | Medal |
 | ------------- | ------------- |
 | 10 Days of JS  | Gold  |
+| 30 Days of Code  |  |
 | Java | Bronze |
 
 **Projects**
